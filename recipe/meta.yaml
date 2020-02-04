@@ -1,4 +1,4 @@
-{% set version = '1.0-20160527' %}
+{% set version = "1.1-0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -11,12 +11,12 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/arrayhelpers_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/arrayhelpers/arrayhelpers_{{ version }}.tar.gz
-  sha256: 345ccb1e577aeef241c5602a6a922d8e6cd05358112d4db204fe75f32e0c69c5
+  sha256: 5fddd5dd4fb8237bcb24465ef823bc8715ba53e6e5fd7a716c31c48ec128340b
 
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1002
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
