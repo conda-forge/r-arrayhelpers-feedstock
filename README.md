@@ -3,7 +3,7 @@ About r-arrayhelpers
 
 Home: http://arrayhelpers.r-forge.r-project.org/
 
-Package license: GPL-3
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-arrayhelpers-feedstock/blob/master/LICENSE.txt)
 
