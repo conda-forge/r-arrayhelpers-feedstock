@@ -37,7 +37,7 @@ test:
 
 about:
   home: http://arrayhelpers.r-forge.r-project.org/
-  license: GPL-3
+  license: GPL-2.0-or-later
   summary: Some convenient functions to work with arrays.
   license_family: GPL3
   license_file:
