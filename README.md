@@ -1,11 +1,11 @@
-About r-arrayhelpers
-====================
+About r-arrayhelpers-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-arrayhelpers-feedstock/blob/main/LICENSE.txt)
 
 Home: http://arrayhelpers.r-forge.r-project.org/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-arrayhelpers-feedstock/blob/main/LICENSE.txt)
 
 Summary: Some convenient functions to work with arrays.
 
